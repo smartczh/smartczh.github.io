@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://smartczh.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Icarus</title>
+    <link>https://smartczh.github.io/</link>
+    <description>Recent content on Icarus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Oct 2019 18:55:20 +0800</lastBuildDate>
     
-	<atom:link href="http://smartczh.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://smartczh.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test1</title>
-      <link>http://smartczh.github.io/post/test1/</link>
+      <link>https://smartczh.github.io/2019/10/04/test1/</link>
       <pubDate>Fri, 04 Oct 2019 18:55:20 +0800</pubDate>
       
-      <guid>http://smartczh.github.io/post/test1/</guid>
+      <guid>https://smartczh.github.io/2019/10/04/test1/</guid>
       <description> Hello Hugo  aaa bbb ccc   </description>
     </item>
     
